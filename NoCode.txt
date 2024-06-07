@@ -1,0 +1,53 @@
+En este archivo se describiran y resolveran ejercicios "No Code"
+
+Sherlock syllogisms
+
+Silogismo (del griego syllogismos, 'conclusión, inferencia'): es un rompecabezas lógico en el que se extrae una conclusión a partir de unos hechos concretos y sólo de esos hechos.
+
+Dados los siguientes hechos, identifique la letra que mejor completa el enunciado.
+
+¡Comenzamos!
+
+1)Todas las gemas son caras.
+Todos los rubíes son gemas.
+Por lo tanto podemos concluir:
+
+a) Algunos rubíes son caros
+b) Todos los rubíes son caros.
+c) Algunas gemas son caras.
+d) Ninguna de las anteriores.
+
+RESPUESTA = 
+
+2)Ningún robot es malvado.
+Todos los teléfonos móviles son robots.
+Por lo tanto podemos concluir:
+
+a) Todos los teléfonos móviles son malvados.
+b) Todos los robots son teléfonos móviles.
+c) Algunos teléfonos móviles son malvados.
+d) Ninguna de las anteriores.
+
+RESPUESTA = 
+
+3)Todos los bugs son mal código.
+Algunos errores de redondeo son bugs.
+Por lo tanto podemos concluir:
+
+a) Todos los errores de redondeo son mal código.
+b) Algunos errores de redondeo son mal código.
+c) Algunos errores de redondeo son falsos.
+d) Ninguna de las anteriores.
+
+RESPUESTA = 
+
+4)Todas las cosas educativas son útiles.
+Algunos sitios web no son útiles.
+Por lo tanto podemos concluir:
+
+a) Algunos sitios web no son educativos.
+b) Todos los sitios web son educativos.
+c) Todas las cosas educativas no son sitios web.
+d) Ninguna de las anteriores.
+
+RESPUESTA = 
