@@ -1,5 +1,7 @@
 En este archivo se describiran y resolveran ejercicios "No Code"
 
+Primera Seción.
+
 Sherlock syllogisms
 
 Silogismo (del griego syllogismos, 'conclusión, inferencia'): es un rompecabezas lógico en el que se extrae una conclusión a partir de unos hechos concretos y sólo de esos hechos.
@@ -17,7 +19,7 @@ b) Todos los rubíes son caros.
 c) Algunas gemas son caras.
 d) Ninguna de las anteriores.
 
-RESPUESTA = 
+RESPUESTA = b) Todos los rubíes son caros.
 
 2)Ningún robot es malvado.
 Todos los teléfonos móviles son robots.
@@ -28,7 +30,7 @@ b) Todos los robots son teléfonos móviles.
 c) Algunos teléfonos móviles son malvados.
 d) Ninguna de las anteriores.
 
-RESPUESTA = 
+RESPUESTA = d) Ninguna de las anteriores.
 
 3)Todos los bugs son mal código.
 Algunos errores de redondeo son bugs.
@@ -39,7 +41,7 @@ b) Algunos errores de redondeo son mal código.
 c) Algunos errores de redondeo son falsos.
 d) Ninguna de las anteriores.
 
-RESPUESTA = 
+RESPUESTA = b) Algunos errores de redondeo son mal código.
 
 4)Todas las cosas educativas son útiles.
 Algunos sitios web no son útiles.
@@ -50,4 +52,4 @@ b) Todos los sitios web son educativos.
 c) Todas las cosas educativas no son sitios web.
 d) Ninguna de las anteriores.
 
-RESPUESTA = 
+RESPUESTA = c) Algunos sitios web no son educativos.
