@@ -7,9 +7,9 @@ Convierte la palabra PALO en la palabra GATA en 2 pasos. Solo debes cambiar una 
 
 P A L O
 
-_ _ _ _
+P A L A
 
-_ _ _ _
+P A T A
 
 G A T A
 
@@ -18,11 +18,11 @@ Convierte la palabra DEMO en la palabra MAÑA en 3 pasos. Solo debes cambiar una
 
 D E M O
 
-_ _ _ _
+D A M O
 
-_ _ _ _
+M A M O
 
-_ _ _ _
+M A M A
 
 M A Ñ A
 
@@ -31,10 +31,10 @@ Convierte la palabra CUBA en la palabra PERÚ en 3 pasos. Solo debes cambiar una
 
 C U B A
 
-_ _ _ _
+C U R A
 
-_ _ _ _
+C E R A
 
-_ _ _ _
+P E R A
 
 P E R Ú
